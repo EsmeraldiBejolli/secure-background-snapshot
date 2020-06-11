@@ -65,7 +65,8 @@ Implementing snapshot data preventing for the entire app:
         self.imageView.removeFromSuperview()
 
     }
-    
+   ````
+ 
 Implementing snapshot preventing for the entire app:
 
     ```
@@ -117,3 +118,7 @@ Implementing snapshot preventing for the entire app:
 Android implementation is simple and in the same line as IOS so I found trivial to add them both here but if you need any help please reach me out.
 
 Hope this Artice helped you a little on improving security on your own application. In case you need any help or advice please do not hesitate to reach me out.
+
+[Linkedin](https://www.linkedin.com/in/esmeraldi-bejolli/) 
+
+[My Site](http://www.ebejolli.com)
